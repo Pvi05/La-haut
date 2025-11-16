@@ -1,4 +1,4 @@
-<h1>Là Haut: Projet des coding weeks 2024-2025 de la team Con-vie-vial</h1>
+<h1>Là Haut: Projet des coding weeks 2024-2025 de la l'équipe Con-vie-vial</h1>
 
 <h2>Description</h2>
 Le projet est un jeu consistant à guider une chute d'eau entre des obstacles afin d'amener le plus d'eau possible dans un tuyau. Le joueur peut pour cela placer ou effacer certains blocs. Certains niveaux de jeu sont déjà enregistrés mais il est aussi possible de générer des niveaux automatiquement.
@@ -8,14 +8,14 @@ Notre projet inclut aussi un module permettant de créer soit même des niveaux 
 <h2>La team Con-vie-vial</h2>
 <li>Membre 1 : Enguerrand de Jaegere </lu>
 <li>Membre 2 : Emile L'Excellent</lu>
-<li>Membre 3 : Paul VILARS</lu>
+<li>Membre 3 : Paul Vilars</lu>
 <li>Membre 4 : Paul Verhaeghe</lu>
-<li>Membre 5 : Maxime lpb </lu>
-<li>Membre 6 : Tizianuile </lu>
+<li>Membre 5 : Maxime </lu>
+<li>Membre 6 : Tiziano </lu>
 
 <h2>Installation</h2>
 
-Avant d'utiliser notre projet, il faudra installer les modules pythons du fichier nommé _requirements.txt_. Vous pouvez les installer avec le module pip. Il faut aussi avoir tous les modules du dossier "la-haut".
+Avant d'utiliser notre projet, il faudra installer les modules pythons du fichier nommé _requirements.txt_. Vous pouvez les installer avec le module pip. 
 
 <h2>Utilisation</h2>
 
@@ -74,7 +74,7 @@ Pour le rendre accessible, il faut l'affecter à un niveau dans le dictionnaire 
 
 -> Retravailler le fichier level_editor.py pour que son utilisation soit plus simple afin de le rendre accessible à tout utilisateur.
 
--> Une nouvelle modelisation de l'eau qui s'écoule moins aléatoirement. le fichier ecoulement_direction.py est un essain de particules d'eau qui gardent la même direction (gauche ou droite) jusqu'à rencontrer un obstacle mais les résultats ne sont pas satisfaisant.
+-> Une nouvelle modelisation de l'eau qui s'écoule moins aléatoirement. le fichier ecoulement_direction.py est un essain de particules d'eau qui gardent la même direction (gauche ou droite) jusqu'à rencontrer un obstacle mais les résultats peuvent être amélioré.
 
 -> Des nouveaux matériaux originaux pour rendre les niveaux encore plus épicés!
 
