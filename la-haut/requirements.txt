@@ -1,0 +1,13 @@
+Liste des modules et versions à installer :
+-Python 
+-numpy 
+-pygame 
+-os 
+-sys 
+-math 
+-pygame.locals
+-abc
+-pathlib
+-time
+-random
+-copy
